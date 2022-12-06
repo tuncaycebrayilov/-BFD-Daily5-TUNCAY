@@ -1,0 +1,11 @@
+.linkedin{
+    background-color: rgb(196, 46, 196); 
+    color: white; 
+    width: 100px; 
+    height: 50px; 
+    border-radius: 10px;
+}
+.linkedin:hover{
+   background-color: rgb(243, 229, 255);
+   color: black;
+}

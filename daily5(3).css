@@ -1,0 +1,18 @@
+.newyear{
+    width: 400px;
+    height: 300px;
+    opacity: 0.5;
+    border-radius: 30px;
+}
+.newyear2{
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+    opacity: 0.6;
+}
+.newyear3{
+    width: 350px;
+    height: 270px;
+    border-radius: 30px;
+    opacity: 0.8;
+}
